@@ -1,0 +1,18 @@
+package com.test;
+
+public class programs {
+
+	public static void main(String[] args) {
+		String str="hello,this is a java program";
+		char arr[] = new char[20];
+		str.getChars(7, 21, arr, 0);
+		System.out.println(arr);
+		
+	
+		
+	
+
+	}
+	
+
+}

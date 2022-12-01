@@ -1,0 +1,18 @@
+package com.test;
+
+public class Sample {
+
+	public static void main(String[] args) {
+		int a=100;
+		float b=15.86f;
+		char c='s';
+		String d="surekha";
+		System.out.println(a);
+		System.out.println(b);
+		System.out.println(c);
+		System.out.println(d);
+	
+
+	}
+
+}

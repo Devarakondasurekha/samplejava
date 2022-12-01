@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/Devarakondasurekha/Surekha.git"/>
+		<item value="https://github.com/Devarakondasurekha/surekhad.git"/>
+		<item value="git@github.com:Devarakondasurekha/surekhad.git"/>
+		<item value="git@bitbucket.org:11surekha/surekha11.git"/>
+		<item value="https://11surekha@bitbucket.org/11surekha/surekha11.git"/>
+		<item value="https://github.com/skeeto/sample-java-project.git"/>
+	</list>
+</section>
